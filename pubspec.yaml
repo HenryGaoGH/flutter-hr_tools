@@ -1,7 +1,7 @@
 name: hr_tools
 description: 一个开箱即用的Flutter 模块&功能 集合.详情可查阅ReadMe
 version: 0.0.1
-homepage:
+homepage: https://github.com/HenryGaoGH/flutter-hr_tools.git
 
 environment:
   sdk: ">=2.8.1 <3.0.0"
